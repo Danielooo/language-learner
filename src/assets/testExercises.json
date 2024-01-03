@@ -1,0 +1,26 @@
+[
+  {
+    "sentence": "Yo _____ un libro interesante.",
+    "verb": "leer",
+    "tense": "presente",
+    "correct_answer": "leo"
+  },
+  {
+    "sentence": "Ellos _____ en la playa durante el verano.",
+    "verb": "nadar",
+    "tense": "pretérito",
+    "correct_answer": "nadaron"
+  },
+  {
+    "sentence": "Nosotros _____ una película anoche.",
+    "verb": "ver",
+    "tense": "pretérito",
+    "correct_answer": "vimos"
+  },
+  {
+    "sentence": "Tú _____ a la escuela todos los días.",
+    "verb": "ir",
+    "tense": "futuro",
+    "correct_answer": "irás"
+  }
+]
