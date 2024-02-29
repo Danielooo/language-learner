@@ -1,5 +1,7 @@
 import { useState } from 'react';
 
+import './../../App.css'
+
 
 function UploadExercises() {
     const [ fileContent, setFileContent ] = useState( '' );
@@ -17,12 +19,14 @@ function UploadExercises() {
     
     return (
         <>
+            <article className='default-page'>
             <h1>Upload Exercises page</h1>
             <input
                 type='file'
                 onChange={handleFileChange}
             />
             <pre>{fileContent}</pre>
+            </article>
         </>
     
     );

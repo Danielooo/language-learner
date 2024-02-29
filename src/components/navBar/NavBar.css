@@ -1,0 +1,19 @@
+
+
+nav {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 10vh;
+    gap: 40px;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 30px;
+}
+
+.nav-links {
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}

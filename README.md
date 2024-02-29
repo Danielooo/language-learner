@@ -1,9 +1,7 @@
-# React + Vite
+# Language Learner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Purpose
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# language-learner
+Language Learner will help you learn the subjects you want. You can create your own lessons through chatGPT and learn them.
+Language Learner will remember which answers you had correct and which ones you struggle with. The ones you need help with will be repeated
+more often.

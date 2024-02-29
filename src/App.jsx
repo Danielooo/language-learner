@@ -4,14 +4,28 @@ import { Routes, Route } from 'react-router-dom';
 // pages
 import HomePage from './pages/homepage/HomePage.jsx';
 import UploadExercises from './pages/uploadExercises/UploadExercises.jsx';
+
+// components
+import NavBar from "./components/navBar/NavBar.jsx";
+
+// misc
 import './App.css';
+
+// To do
+// TODO: link github remote
+// TODO: maak werkend txt file naar useState
+
+// done
+// TODO: maak navbar
+// TODO: maak link naar upload Exercises
+
 
 
 function App() {
     
     return (
         <>
-            {/*<Nav/>*/}
+            <NavBar/>
             <main>
                 <Routes>
                     <Route
@@ -21,7 +35,7 @@ function App() {
                     />
                     <Route
                         exact
-                        path='/'
+                        path='/up'
                         element={<UploadExercises/>}
                     />
                 
