@@ -12,12 +12,15 @@ import NavBar from "./components/navBar/NavBar.jsx";
 import './App.css';
 
 // To do
-// TODO: link github remote
-// TODO: maak werkend txt file naar useState
+// TODO: file inhoud wordt getoond op homepage. Naam en inhoud
+// TODO: create AllExcercisesContext
 
 // done
+// TODO: maak input voor meerdere files
 // TODO: maak navbar
 // TODO: maak link naar upload Exercises
+// TODO: link github remote
+// TODO: maak werkend txt file naar useState
 
 
 

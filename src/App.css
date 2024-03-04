@@ -12,6 +12,12 @@ body {
     height: 100vh;
 }
 
+main {
+    padding: 0;
+    margin: 0;
+    min-height: fit-content;
+}
+
 .default-page {
     padding: 20px;
 }

@@ -3,24 +3,44 @@
     "sentence": "Yo _____ un libro interesante.",
     "verb": "leer",
     "tense": "presente",
-    "correct_answer": "leo"
+    "correct_answer": "leo",
+    "times_asked": 0,
+    "times_right": 0,
+    "times_wrong": 0,
+    "last_date_wrong": null,
+    "last_date_right": null
   },
   {
     "sentence": "Ellos _____ en la playa durante el verano.",
     "verb": "nadar",
     "tense": "pretérito",
-    "correct_answer": "nadaron"
+    "correct_answer": "nadaron",
+    "times_asked": 0,
+    "times_right": 0,
+    "times_wrong": 0,
+    "last_date_wrong": null,
+    "last_date_right": null
   },
   {
     "sentence": "Nosotros _____ una película anoche.",
     "verb": "ver",
     "tense": "pretérito",
-    "correct_answer": "vimos"
+    "correct_answer": "vimos",
+    "times_asked": 0,
+    "times_right": 0,
+    "times_wrong": 0,
+    "last_date_wrong": null,
+    "last_date_right": null
   },
   {
     "sentence": "Tú _____ a la escuela todos los días.",
     "verb": "ir",
     "tense": "futuro",
-    "correct_answer": "irás"
+    "correct_answer": "irás",
+    "times_asked": 0,
+    "times_right": 0,
+    "times_wrong": 0,
+    "last_date_wrong": null,
+    "last_date_right": null
   }
 ]
