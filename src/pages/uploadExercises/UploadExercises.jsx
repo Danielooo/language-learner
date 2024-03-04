@@ -7,14 +7,14 @@ function UploadExercises() {
     const [ fileContent, setFileContent ] = useState( [] );
 
     useEffect(() => {
-        console.log('fileContent', fileContent)
+        // console.log('fileContent', fileContent)
     }, [ fileContent ]);
 
-    const handleFileChange = (event) => {
+    function handleFileChange(event){
         try {
             // Retrieves the list of files selected by the user.
             const files = event.target.files;
-            console.log('files: ', files);
+            // console.log('files: ', files);
 
             // Converts the FileList to an array to facilitate operations like iteration.
             const arrayFromFiles = Array.from(files);
